@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "BrewAndBlendFinalProject-main.slnx"
+    "dotnet.defaultSolution": "Coffee_Analytics.slnx"
 }
